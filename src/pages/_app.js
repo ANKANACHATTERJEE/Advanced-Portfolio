@@ -1,10 +1,10 @@
-import Footer from "@/components/Footer";
-import NavBar from "@/components/NavBar";
-import "@/styles/globals.css";
-import ParticleBackground from "@/components/ParticleBackground";
-import { Montserrat } from "next/font/google"; import Head from "next/head";
+import Footer from "../components/Footer";
+import NavBar from "../components/NavBar";
+import "../styles/globals.css";
+import ParticleBackground from "../components/ParticleBackground";
+import { Montserrat } from "next/font/google"; 
 import { useState,useEffect } from "react";
-import Preloader from "@/components/Preloader";
+
 const montserrat = Montserrat({
 subsets: ["latin"],
 variable: "--font-mont",
