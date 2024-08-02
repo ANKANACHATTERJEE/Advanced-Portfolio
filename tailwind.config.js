@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 
-
+const { fontFamily } = require('tailwindCss/defaultTheme')
 
 module.exports = { 
   content: [
