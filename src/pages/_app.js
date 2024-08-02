@@ -1,7 +1,7 @@
-import Footer from "../components/Footer";
+import Footer from "@/components/Footer";
 import NavBar from "../components/NavBar";
-import "../styles/globals.css";
-import ParticleBackground from "../components/ParticleBackground";
+import "@/styles/globals.css";
+import ParticleBackground from "@/components/ParticleBackground";
 import { Montserrat } from "next/font/google"; 
 import { useState,useEffect } from "react";
 
