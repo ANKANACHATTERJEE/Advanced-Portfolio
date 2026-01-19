@@ -38,7 +38,7 @@ className='mb-10 p-10 '>
       <div  className='flex flex-row xs:w-[75%]  sm:w-[75%] md:w-[75%] lg:w-[50%] xl:w-[50%] 2xl:w-[50%] xs:mx-0  sm:mx-auto md:mx-auto lg:mx-auto xl:mx-auto 2xl:mx-auto relative items-center justify-between'>
       <div className='absolute ml-0 xs:left-20 sm:left-20 md:left-20 lg:left-20 lg:-ml-20 top-0 w-[4px] h-full bg-indigo-500 origin top'/>
         <ul className='w-full flex flex-col items-start justify-between '>
-        <Details position="Program Associate" company="WellsFargo" companyLink="/" time="Aug 2024 - Present" address="Hyderabad, Telangana, India" work="Led full-stack development and end-to-end ownership of an internal application, 
+        <Details position="Software Engineer" company="WellsFargo" companyLink="/" time="Aug 2024 - Present" address="Hyderabad, Telangana, India" work="Led full-stack development and end-to-end ownership of an internal application, 
         including production issue resolution, release management, and Business Continuity Planning (BCP) activities. Spearheading GenAI use case implementation to enhance internal application functionality and efficiency. 
         Contributed to successful migration of three applications from PCF to OCP, ensuring scalability and operational stability. Identified and remediated application vulnerabilities, strengthening security posture and compliance.
 "/>
