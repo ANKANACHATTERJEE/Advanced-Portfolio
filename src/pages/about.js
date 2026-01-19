@@ -24,7 +24,7 @@ export default function About() {
             Hello, I'm Ankana Chatterjee, a passionate and dedicated Full Stack Developer with a strong background in Computer Science. My journey in the tech world began with a curiosity for how things work, which eventually transformed into a deep love for creating innovative and efficient web applications.
           </p>
           <p className="text-base xs:text-xs sm:text-sm md:text-md lg:text-md 2xl:text-md xl:text-md mb-4">
-            With expertise in both front-end and back-end development, I have honed my skills in technologies such as JavaScript, React, Node.js, and various other modern frameworks and tools. I'm always excited to learn new things in the web development world. 
+            With expertise in both front-end and back-end development, I have honed my skills in technologies such as Java, AngularJS and various other modern frameworks and tools. I'm always excited to learn new things in the web development world. 
             I have also had the opportunity to lead the web development team at HackClub, one of the top tech clubs at my college. It was a fantastic experience that allowed me to dive deep into web development while working with a talented and enthusiastic team.
             Besides web development, I've also dabbled in projects involving Machine Learning and Deep Learning.
           </p>

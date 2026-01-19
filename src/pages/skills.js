@@ -10,25 +10,22 @@ const skillsData = [
     skills: ['Java', 'Python', 'C++', 'C', 'R'],
   },
   {
-    category: 'Front-End Development',
+    category: 'Technologies & Frameworks',
     skills: [
       'HTML',
       'CSS',
-      'Tailwind CSS',
+      'SpringBoot',
       'JavaScript',
-      'React',
       'Angular',
-      'Next.js',
-      'Particles.js'
     ],
   },
   {
-    category: 'Back-End Development',
-    skills: ['PHP', 'SQL', 'MongoDB', 'Node.js'],
+    category: 'Databases',
+    skills: ['Oracle SQL', 'MongoDB'],
   },
   {
-    category: 'Other Technologies',
-    skills: ['GitHub','IntelliJ IDEA','Visual Studio Code','Microsoft Azure DevOps','Jenkins','JIRA'],
+    category: 'Tools & Platforms',
+    skills: ['GitHub','IntelliJ IDEA','Visual Studio Code','Jenkins','UCD','Harness'],
   },
   {
     category: 'Soft Skills',
